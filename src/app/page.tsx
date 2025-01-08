@@ -14,7 +14,7 @@ export default function Home() {
        {/* hero section 550*/}
        <section className="relative w-full h-full">
   <Image 
-    src="/image/bg4.jpg" 
+    src="/image/bg5.jpg" 
     height={1200} 
     width={800} 
     alt="bg4" 
