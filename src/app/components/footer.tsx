@@ -7,7 +7,7 @@ import Link from "next/link";
 
 function Footer() {
   return (
-    <main className="h-auto w-full  bg-[#bc166c] p-20 pb-0">
+    <main className="h-auto w-full  bg-[#4a0231] p-20 pb-0">
       <section className="grid  sm:grid-cols-3 md:grid-cols-4 gap-6 sm:gap-0 justify-around">
         <div className="grid gap-6 justify-center items-center h-auto mb-14">
           <div className="flex gap-3 items-center">
